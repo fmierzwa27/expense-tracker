@@ -12,7 +12,7 @@ This app allows users to:
 
 
 
-      **INSTALATION**
+   **INSTALATION**
 
   
 
