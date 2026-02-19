@@ -1,0 +1,22 @@
+GET http://127.0.0.1:5000/transactions
+
+###
+
+GET http://127.0.0.1:5000/balance
+
+###
+
+POST http://127.0.0.1:5000/transactions
+Content-Type: application/json
+
+{
+  "amount": 100,
+  "type": "expense",
+  "category": "Food",
+  "description": "Groceries",
+  "date": "2026-02-19"
+}
+
+###
+
+DELETE http://127.0.0.1:5000/transactions/1
