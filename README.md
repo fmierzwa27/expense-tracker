@@ -11,22 +11,10 @@ This app allows users to:
 - Automatically calculate current balance
 
 
-Tech Stack:
-
-  Frontend:
-  - React
-  - Vite
-  - Fetch API
-  - CSS (Flexbox)
-  
-  Backend:
-  - Python 3
-  - Flask
-  - Flask-CORS
-  - SQLite
-
 
       **INSTALATION**
+
+  
 
 1. Create new project and clone the repository with theses commands in your terminal:
      
