@@ -25,6 +25,7 @@ This app allows users to:
 
     Open terminal and run:
 
+       cd expense-tracker
        cd backend
        python -m venv venv
  
@@ -46,12 +47,14 @@ This app allows users to:
    
     Backend will run at:
 
-       http://127.0.0.1:5000
+       http://127.0.0.1:5000/transactions
+       http://127.0.0.1:5000/balance
 
 4. Setup frontend
 
    Open new terminal and run:
 
+       cd expense-tracker
        cd frontend
        npm install
        npm run dev
